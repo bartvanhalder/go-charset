@@ -154,6 +154,12 @@
 	"Class": "cp",
 	"Arg": "windows-1252.cp"
 },
+"windows-1255": {
+        "Desc": "MS Windows CP 1255 (Hebrew)",
+        "Class": "cp",
+        "Arg": "windows-1255.cp"
+},
+
 "windows-31j": {
 	"Aliases":["cp932"],
 	"Desc": "MS Windows Japanese CP 932",
